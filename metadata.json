@@ -1,0 +1,6 @@
+{
+  "name": "Nimai Bakery",
+  "description": "Artisan bakery ordering app for Nimai Bakery. Browse cakes, pastries, breads, customise celebration cakes, track orders, and manage bakery operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
